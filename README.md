@@ -19,3 +19,7 @@ An **AI-powered Hostel Management System** built with **Streamlit**, offering:
 ---
 
 ## 📂 Project Structure
+## 🌐 Live Demo & Repo
+- 🔗 [GitHub Repository](https://github.com/sajidrehman2/sajid-smart-hostel-manager)
+- 🚀 [Try the Live App](https://sajid-smart-hostel-manager-q3shsmepqrsk3iirbn7m5t.streamlit.app/)
+- 🎥 Demo Video: (Add your video link here once uploaded to YouTube/Drive)
