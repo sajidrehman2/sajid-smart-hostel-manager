@@ -1,0 +1,28 @@
+2025-08-28 12:44:46,282 - SSHMSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 12:44:46,283 - SSHMSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 12:44:46,284 - SSHMSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 12:44:46,285 - SSHMSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 12:44:46,285 - SSHMSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 12:45:04,650 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:45:08,434 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:45:08,450 - SSHMSystem - INFO - ALLOCATION - Room Allocation Completed: Allocated 60 students to 31 rooms
+2025-08-28 12:46:37,310 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:46:37,518 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:46:50,672 - SSHMSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 12:46:50,673 - SSHMSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 12:46:50,679 - SSHMSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 12:46:50,681 - SSHMSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 12:46:50,681 - SSHMSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 12:49:03,105 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:49:11,891 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:49:11,978 - SSHMSystem - INFO - ALLOCATION - Room Allocation Completed: Allocated 60 students to 31 rooms
+2025-08-28 12:49:44,456 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:49:44,781 - SSHMSystem - INFO - EXPORT - Logs Exported: 9 logs exported to CSV
+2025-08-28 12:49:48,089 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:49:50,739 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:49:53,706 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:49:56,547 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:50:17,636 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:50:17,843 - SSHMSystem - INFO - UPLOAD - Test File Uploaded: test_students.csv uploaded for testing
+2025-08-28 12:50:20,090 - SSHMSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:50:20,257 - SSHMSystem - INFO - ALLOCATION - Test Allocation: Test allocation completed successfully

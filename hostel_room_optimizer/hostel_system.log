@@ -1,0 +1,94 @@
+2025-08-28 03:56:00,976 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 03:56:00,977 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 03:56:00,978 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 03:56:00,978 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 03:56:00,981 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 03:58:57,614 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 03:58:57,615 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 03:58:57,617 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 03:58:57,618 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 03:58:57,618 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 03:59:39,502 - HostelSystem - INFO - EXPORT - Logs Exported: 5 logs exported to CSV
+2025-08-28 03:59:57,074 - HostelSystem - INFO - EXPORT - Logs Exported: 6 logs exported to CSV
+2025-08-28 04:00:21,865 - HostelSystem - INFO - UPLOAD - Test File Uploaded: test_students.csv uploaded for testing
+2025-08-28 04:00:27,101 - HostelSystem - INFO - ALLOCATION - Test Allocation: Test allocation completed successfully
+2025-08-28 04:00:28,571 - HostelSystem - WARNING - SYSTEM - Test Warning: This is a test warning message
+2025-08-28 04:00:30,721 - HostelSystem - ERROR - SYSTEM - Test Error: This is a test error message
+2025-08-28 04:00:34,550 - HostelSystem - INFO - UPLOAD - Test File Uploaded: test_students.csv uploaded for testing
+2025-08-28 04:03:37,913 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 04:03:37,919 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 04:03:37,921 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 04:03:37,924 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 04:03:37,924 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 04:03:41,669 - HostelSystem - INFO - UPLOAD - Test File Uploaded: test_students.csv uploaded for testing
+2025-08-28 04:04:05,167 - HostelSystem - INFO - ALLOCATION - Test Allocation: Test allocation completed successfully
+2025-08-28 04:04:06,946 - HostelSystem - WARNING - SYSTEM - Test Warning: This is a test warning message
+2025-08-28 04:04:09,191 - HostelSystem - ERROR - SYSTEM - Test Error: This is a test error message
+2025-08-28 04:04:12,561 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 04:04:12,564 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 04:04:12,570 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 04:04:12,573 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 04:04:12,574 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 04:28:14,874 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 04:28:14,877 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 04:28:14,877 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 04:28:14,877 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 04:28:14,878 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 04:28:35,522 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 04:29:20,446 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 04:29:20,456 - HostelSystem - INFO - UPLOAD - Test File Uploaded: test_students.csv uploaded for testing
+2025-08-28 04:29:22,809 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 04:29:22,820 - HostelSystem - INFO - ALLOCATION - Test Allocation: Test allocation completed successfully
+2025-08-28 04:29:47,913 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 04:29:53,284 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 12:05:24,991 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 12:05:24,992 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 12:05:24,992 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 12:05:24,993 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 12:05:24,993 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 12:15:01,180 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 12:15:01,183 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 12:15:01,184 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 12:15:01,184 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 12:15:01,185 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 12:15:23,405 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 12:15:28,154 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 12:15:28,162 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Missing required column: student_id
+2025-08-28 12:15:32,703 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data.csv uploaded and processed successfully
+2025-08-28 12:15:32,711 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Missing required column: student_id
+2025-08-28 12:17:57,551 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data_part1.csv uploaded and processed successfully
+2025-08-28 12:18:13,947 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data_part1.csv uploaded and processed successfully
+2025-08-28 12:18:13,957 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Missing required column: student_id
+2025-08-28 12:19:28,626 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data_fixed.csv uploaded and processed successfully
+2025-08-28 12:19:32,676 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data_fixed.csv uploaded and processed successfully
+2025-08-28 12:19:32,682 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Missing required column: student_id
+2025-08-28 12:20:47,974 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 12:20:47,975 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 12:20:47,976 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 12:20:47,977 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 12:20:47,977 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 12:20:59,241 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data_fixed.csv uploaded and processed successfully
+2025-08-28 12:21:11,711 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: sample_data_fixed.csv uploaded and processed successfully
+2025-08-28 12:21:11,727 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Missing required column: gender
+2025-08-28 12:29:11,307 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: 60 students allocated to 20 rooms successfully
+2025-08-28 12:29:11,308 - HostelSystem - INFO - UPLOAD - CSV File Uploaded: student_data_2025.csv uploaded with 60 records
+2025-08-28 12:29:11,308 - HostelSystem - WARNING - DATA - Missing Data Detected: 5 students missing sleep_time preference
+2025-08-28 12:29:11,308 - HostelSystem - INFO - EXPORT - Results Exported: room_allocations.csv downloaded successfully
+2025-08-28 12:29:11,311 - HostelSystem - ERROR - ALLOCATION - Allocation Failed: Insufficient data for clustering algorithm
+2025-08-28 12:34:27,507 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:34:31,653 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:34:31,684 - HostelSystem - INFO - ALLOCATION - Room Allocation Completed: Allocated 60 students to 31 rooms
+2025-08-28 12:35:06,871 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:07,020 - HostelSystem - INFO - EXPORT - Logs Exported: 9 logs exported to CSV
+2025-08-28 12:35:09,832 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:12,673 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:16,597 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:19,581 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:34,350 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:34,432 - HostelSystem - INFO - UPLOAD - Test File Uploaded: test_students.csv uploaded for testing
+2025-08-28 12:35:36,117 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:36,201 - HostelSystem - INFO - ALLOCATION - Test Allocation: Test allocation completed successfully
+2025-08-28 12:35:48,523 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:48,612 - HostelSystem - WARNING - SYSTEM - Test Warning: This is a test warning message
+2025-08-28 12:35:50,548 - HostelSystem - INFO - UPLOAD - File Uploaded Successfully: room_mate.csv uploaded and processed successfully
+2025-08-28 12:35:50,635 - HostelSystem - ERROR - SYSTEM - Test Error: This is a test error message
